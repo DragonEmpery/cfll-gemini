@@ -1,3 +1,6 @@
+# 注意，现在不建议使用了，可能会被deno封号，慎用！！！
+注意，现在不建议使用了，可能会被deno封号，慎用！！！
+
 # cfll-gemini
 
 自己用的 gemini 反向代理服务，基于免费且强大的 [Deno Deploy](https://deno.com/deploy) 平台。
